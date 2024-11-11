@@ -1,2 +1,16 @@
 # Custom Agent Example Repository
-🚨👷 This is Currently a work in progress 👷🚨
+
+This repository shows an example of a custom agent
+
+
+## Python Agent Implementation
+
+[components/planning_agent.py](https://github.com/eidolon-ai/howto-custom-agent/blob/main/components/planning_agent.py)
+
+
+## Using Custom Agent in Resource Definition
+[resources/planning_agent.eidolon.yaml](https://github.com/eidolon-ai/howto-custom-agent/blob/main/resources/planning_agent.eidolon.yaml)
+
+## More Details
+See Eidolon's [How To Build CustomAgent Templates](https://www.eidolonai.com/docs/howto/build_custom_agents) document for more details.
+
