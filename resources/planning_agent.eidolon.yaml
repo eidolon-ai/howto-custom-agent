@@ -1,0 +1,7 @@
+apiVersion: server.eidolonai.com/v1alpha1
+kind: Agent
+metadata:
+  name: planning-agent
+spec:
+  # Implementation is the FQN of your agent template class.
+  implementation: components.planning_agent.PlanningAgent
