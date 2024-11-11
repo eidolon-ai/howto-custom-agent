@@ -1,6 +1,6 @@
 # Custom Agent Example Repository
 
-This repository shows an example of a custom agent.
+This repository shows an example of a custom agent using the Eidolon SDK.
 
 This example shows how to build a two-part agent that will first generate a response plan, and then execute the response plan.
 
